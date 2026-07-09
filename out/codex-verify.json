@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test importiert und prüft df-160-engine.py mit generischen Engine-/Lock-/Mock-Assertions, ruft analyze_calendar nie auf und beweist weder Kalenderanalyse noch adversarialen Input mit anderem Output.",
+  "ts": "2026-07-08T15:08:02.132952+00:00"
+}
