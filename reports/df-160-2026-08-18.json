@@ -1,0 +1,19 @@
+{
+  "back_to_back_meetings": 5,
+  "declined_meetings": 2,
+  "df": "DF-160",
+  "focus_time_pct": 42.5,
+  "iso_timestamp": "2026-08-18T22:58:53+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "meetings_per_day_avg": 3.2,
+  "meta": {
+    "mock_default": true
+  },
+  "source": "mock",
+  "total_meeting_hours_per_week": 16.0,
+  "welle": "25"
+}
